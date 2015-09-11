@@ -14,3 +14,4 @@ The first alpha version of this software has been created at Battlehack Berlin 2
   * Make better install script
   * Allow recieving and sending messages to remote servers
   * Integrate encrypted online conferences
+  * Create install script
